@@ -1,4 +1,0 @@
-[submodule "spec"]
-	path = spec
-	url = git@github.com:mustache/spec.git
-	branch = v1.4.1
